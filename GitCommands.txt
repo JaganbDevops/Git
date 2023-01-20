@@ -1,0 +1,32 @@
+ "filename"    //to create a file//
+ cat>filename        //insert the data into the file  and for exit control+D//
+ ls  //list directory contents//
+ ls -la  //long listing//
+ ls -al
+ ls -a  //hidden files//
+ ls -l  //long listing format//
+ ls -r  //list files in reverse order (alphabetical reverse)//
+ -r    //recursive//
+ -s    //print the allocated size of the file, in blocks  OR sort by file size//
+ ls -1  //list one file per line//
+ ls --version    //list out the version//
+ gitk      //shows all 
+ git init  //creates a blank repository in the current directory and also creates .git folder//
+ git add .   //add changes in the current directory to the staging area//
+ git commit  //takes the snapshot of staged changes, OR used to save your changes to the local repository//
+ git status  // display the state of the current repository and the staging area, also shows which changes have been staged. Shows in Green colour//
+ git merge   //used to integrate different branches into a single branch//
+ git push    //upload the content from local repository to the remote repository.   Local to Remote repo//
+ git pull    // used to fetch the new commits and merge them into a local branch//
+ git clone   //used to create a copy of the target repo into the local repo/directory//
+ git branch  //used to create, delete, list and rename branches//
+ git checkout  //works with git branch command and used to navigate between the branches//
+ pwd   //present working Directory//
+
+ vim Brachname   //edit and write//
+ :w             // save the vi editor content//
+ :q enter       // exit command of the editor//
+ :qw!           //discard the changes and exits vim//
+ :x             //save changes made and exit//
+ :w
+
